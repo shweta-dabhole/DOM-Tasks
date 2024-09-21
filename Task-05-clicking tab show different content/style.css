@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.tabs{
+    display: flex;
+    gap: 20px;
+    padding: 20px 40px;
+}
+.tab1,.tab2,.tab3{
+    height: 50px;
+    width: 60px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(149, 133, 133);
+}
+
+h3{
+    display: none;
+}

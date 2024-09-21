@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.start{
+    background-color: rgb(184, 20, 102);
+    color: #ffff;
+    margin-right: 2rem;
+}
+.stop{
+    background-color: rgba(146, 10, 151, 0.723);
+    color: #ffff;
+}
+button{
+    margin-top: 20rem;
+    padding: 10px 40px;
+    border-radius: 6px;
+    border: none;
+    font-size: 18px;
+}

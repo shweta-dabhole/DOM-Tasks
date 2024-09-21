@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+button{
+    margin-top: 50px;
+    margin-left: 20px;
+    padding: 10px 40px;
+    border: none;
+    border-radius: 8px;
+    color: #ffff;
+}
+.hello{
+    background-color: rgb(204, 56, 56);
+    
+}
+.world{
+    background-color: rgb(52, 130, 26);
+    display: none;
+}
